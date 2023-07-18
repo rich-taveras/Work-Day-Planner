@@ -42,6 +42,11 @@ To use the Work Day Planner, simply open the `index.html` file in your preferred
 2. Click the "Save" button to save your tasks for each hour.
 3. The time blocks will be color-coded to indicate past, present, and future hours based on the current time.
 
+here is the link:
+https://rich-taveras.github.io/Work-Day-Planner/
+
+<img src="./images/Screenshot 2023-07-18 101508.png">
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
