@@ -37,3 +37,7 @@ $(function () {
     }
   });
 });
+window.addEventListener('beforeunload', () => {
+  localStorage.clear();
+  // O sessionStorage.clear()
+});
