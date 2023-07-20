@@ -36,8 +36,4 @@ $(function () {
       $(this).addClass("future");
     }
   });
-});
-window.addEventListener('beforeunload', () => {
-  localStorage.clear();
-  // O sessionStorage.clear()
-});
+
